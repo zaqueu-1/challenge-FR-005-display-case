@@ -1,0 +1,57 @@
+    [
+        {
+            "id": 0,
+            "product": "Bracelete de Prata | Coração",
+            "image": "https://media.discordapp.net/attachments/1032819189288816690/1088583562841825300/183675-1600-auto.png",
+            "price": 819.00,
+            "discount": 0,
+            "qtd": 5,
+            "description": "O estilo minimalista em prata de lei tem um fecho em forma de coração gravado com nosso logotipo para uma abordagem sutil da tendência. Quer você a use com ou sem charms, sozinha ou como parte de um look em camadas, ela está destinada a ser uma lembrança."
+          },
+          {
+            "id": 1,
+            "product": "Anel Redondo Brilhante | Halo",
+            "image": "https://media.discordapp.net/attachments/1032819189288816690/1088583669926612992/188248-1600-auto.png",
+            "price": 1439.00,
+            "discount": 0,
+            "qtd": 0,
+            "description": "Clássico e moderno, o anel redondo brilhante Halo revestido em ouro 14k ostenta uma pedra central redonda envolta por um halo de pavé de zircônias cúbicas transparentes de lapidação brilhante."
+          },
+          {
+            "id": 2,
+            "product": "Bracelete de Prata",
+            "image": "https://media.discordapp.net/attachments/1032819189288816690/1088583752965439498/184478-1600-auto.png",
+            "price": 849.00,
+            "discount": 0,
+            "qtd": 7,
+            "description": "Confeccionada em prata de lei elegante, esta pulseira de corrente de cobra apresenta o icônico fecho de barril para um ajuste seguro, enquanto o inovador sistema de rosqueamento facilita a fixação de berloques em sua pulseira. Basta adicionar alguns clipes para dividir a pulseira em três seções e, em seguida, escolher seus berloques favoritos para expressar seu estilo único."
+          },
+          {
+            "id": 3,
+            "product": "Brincos Petit de Andorinha",
+            "image": "https://media.discordapp.net/attachments/1032819189288816690/1088584852258963507/190429-1600-auto.png",
+            "price": 629.00,
+            "discount": 70.00,
+            "qtd": 1,
+            "description": "Brincos Petit De Andorinha Brilhante"
+          },
+          {
+            "id": 4,
+            "product": "Charm Dançante | Marvel",
+            "image": "https://media.discordapp.net/attachments/1032819189288816690/1088585407517691904/190400-800-auto.png",
+            "price": 879.00,
+            "discount": 55.00,
+            "qtd": 1,
+            "description": "Groot, balançando de um lado para o outro em seu vaso, é produzido em prata de lei com cristais artificiais marrons cravejados representando seus olhos e detalhes gravados, imitando um tronco, como seu cabelo e sobrancelhas. A única coisa que ele já disse: I AM GROOT (SOU GROOT) está gravada na parte de trás de sua cabeça. Adicione este charm à sua coleção como um símbolo de sua capacidade de crescer mais forte todos os dias."
+          },
+          {
+            "id": 5,
+            "product": "Charm Pendente Fita Cassete | Marvel",
+            "image": "https://media.discordapp.net/attachments/1032819189288816690/1088586273658261605/190404-1600-auto.png",
+            "price": 809.00,
+            "discount": 0,
+            "qtd": 2,
+            "description": "Não abra mão da diversão com o Charm Pendente Fita Cassete de Guardiões da Galáxia da Marvel. Projetado para lembrar a AWESOME MIX VOL. 1 e a AWESOME MIX VOL. 2 que o Senhor das Estrelas ouve enquanto defende a galáxia, este charm pendente em prata de lei ostenta uma fita realista com detalhamento acentuado em esmalte preto e vermelho transparente aplicado à mão. O design amplia sua estrutura com linhas gravadas e um padrão vazado semelhante aos rolos de fita no charm. Use-o como um lembrete para dançar como se ninguém estivesse olhando – mesmo se alguém estiver."
+          }
+
+    ]
